@@ -41,6 +41,7 @@
     font-size:large;
   border:1px,solid,green;
   border:none;
+  border:none;
 display: flex;
 justify-content: space-evenly;
 gap:40px;
@@ -58,6 +59,7 @@ height:100%;
 .centrenav>img{
     border:1px solid rgb(18, 62, 207);
     border:none;
+    border:none;
 height:100%;
 width:100%;
 
@@ -73,6 +75,7 @@ width:100%;
 .whatsapplogo{
     border:1px solid blue;
     border:none;
+    border:none;
     height:50%;
     width:8%;
 
@@ -85,6 +88,7 @@ width:100%;
 
 .buttons{
     border:1px solid rgb(255, 63, 201);
+    border:none;
     border:none;
     display:flex;
     justify-content: space-evenly;
@@ -117,6 +121,7 @@ background-color: white;
  
     border:1px solid blue;
     border:none;
+    border:none;
     width:100%;  
     height:100%;
 }
@@ -125,6 +130,7 @@ background-color: white;
 .button2{
    
     border:1px solid green;
+    border:none;
     border:none;
     width:100%;  
     height:100%;
@@ -172,6 +178,7 @@ background-color: white;
     height:100%;
     border:1px solid red;
     border:none;
+    border:none;
 display: flex;
 justify-content: space-between;
 align-items: center;
@@ -189,6 +196,7 @@ align-items: center;
     height:70%;
     border:1px solid green;
     border:none;
+    border:none;
     gap: 30px;
 }
 
@@ -197,6 +205,7 @@ align-items: center;
     width:40%;
     height:80%;
     border:1px solid rgb(10, 119, 229);
+    border:none;
     border:none;
 }
 
@@ -217,12 +226,14 @@ align-items: center;
     align-items: center;
     border:1px solid yellow;
     border:none;
+    border:none;
     width:100%;
     font-size:30px;
 
 }
 .buttons1{
     border:1px solid green;
+    border:none;
     border:none;
 width:55%;
 height:20%;
@@ -241,6 +252,7 @@ height:20%;
 }
 .buttonis2{
     border:1px solid red;
+    border:none;
     border-radius: 20px;
     display: flex;
     align-items: center;
@@ -264,6 +276,7 @@ width:100%;
 .c1{
     position: relative;
     border:1px solid orange;
+    border:none;
     border:none;
     width:100%;
     height: 14.5%;
@@ -516,6 +529,7 @@ features{
     .circle{
     
         border:1px solid red;
+        border:none;
         display: flex;
         text-align: center;
         font-weight: lighter;
@@ -529,6 +543,7 @@ features{
 
     .section1{
         border: 1px solid rgb(55, 0, 255);
+        border:none;
         width:60%;
     height:23%;
     }
@@ -536,6 +551,7 @@ features{
 
     .section2{
         border: 1px solid rgb(242, 0, 255);
+        border:none;
         width:60%;
     height:23%;
     }
@@ -548,6 +564,7 @@ features{
         justify-content: center;
         align-items: center;
         border: 1px solid yellow;
+        border:none;
         width:60%;
     height:23%;
     }
@@ -589,6 +606,7 @@ height:100%;
     height: 60%;
     width:100%;
     border:1px solid black;
+    border:none;
 
 }
 .nevermisscontent{
@@ -596,6 +614,7 @@ height:100%;
     justify-content: center;
     align-items: center;
     border:1px solid red;
+    border:none;
 width:50%;
 height: 90%;
 }
@@ -603,11 +622,13 @@ height: 90%;
     width:30%;
     height: 100%;
     border:1px solid blue;
+    border:none;
 }
 .newtxt{
     width: 60%;
     height: 70%;
     border:1px solid green;
+    border:none;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -671,6 +692,7 @@ height: 90%;
     height: 60%;
     width:100%;
     border:1px solid black;
+    border:none;
 
 }
 .speakcontent{
@@ -678,6 +700,7 @@ height: 90%;
     justify-content: space-between;
     align-items: center;
     border:1px solid red;
+    border:none;
 width:50%;
 height: 90%;
 gap:10px;
@@ -687,6 +710,7 @@ gap:10px;
     width:50%;
     height: 100%;
     border:1px solid blue;
+    border:none;
 }
 .newtxt3{
     width: 45%;
@@ -710,6 +734,7 @@ gap:10px;
     width:30%;
     height: 100%;
     border:1px solid blue;
+    border:none;
 }
 .newimage4>img{
     border-radius: 20px;
@@ -726,11 +751,13 @@ gap:10px;
     width:50%;
     height: 100%;
     border:1px solid blue;
+    border:none;
 }
 .newtxt3{
     width: 45%;
     height: 70%;
     border:1px solid green;
+    border:none;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -750,6 +777,7 @@ gap:10px;
     height: 60%;
     width:100%;
     border:1px solid black;
+    border:none;
 
 }
 .speakcontent6{
@@ -757,6 +785,7 @@ gap:10px;
     justify-content: space-between;
     align-items: center;
     border:1px solid red;
+    border:none;
 width:50%;
 height: 90%;
 gap:10px;
@@ -769,11 +798,13 @@ gap:10px;
     width:60%;
     height: 100%;
     border:1px solid blue;
+    border:none;
 }
 .newtxt3{
     width: 45%;
     height: 70%;
     border:1px solid green;
+    border:none;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -851,6 +882,7 @@ height:9%;
 .imgcontent>img{
    
     border: 1px solid black;
+    border:none;
     border-radius: 490px;
   width: 100%;
   height: 100%;
@@ -875,6 +907,7 @@ height:9%;
     justify-content: center;
     align-items: center;
     border:1px solid red;
+    border:none;
     width:100%;
     height: 60%;
 
@@ -884,6 +917,7 @@ height:9%;
     display: flex;
     flex-direction: column;
     border:1px solid rgb(90, 18, 197);
+    border:none;
     height:90%;
     width:60%;
 }
@@ -908,6 +942,7 @@ align-items: center;
 
 .foot>img{
     border:1px solid white;
+    border:none;
     border-radius: 1000px;
     width:5%;
     height: 50%;
@@ -915,6 +950,7 @@ align-items: center;
 }
 .foot>button{
     border:1px solid rgb(244, 238, 238);
+    border:none;
     border-radius: 2px;
 }
 .box2{
@@ -922,6 +958,7 @@ align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
     border:1px solid black;
+    border:none;
     width:16%;
     height: 70%;
 
@@ -959,6 +996,7 @@ align-items: center;
     height:60%;
     width:20%;
     border:1px solid rgb(214, 24, 24);
+    border:none;
     border-radius: 100px;
 }
 
@@ -989,6 +1027,7 @@ button:hover::after{
 
 .buttonis2{
     border:1px solid rgb(69, 11, 245);
+    border:none;
 position: relative;
 }
 .buttonis2::after{
@@ -1027,7 +1066,7 @@ transform: translateX(20px); */
     /* transform: scaleY(0); */
     text-align: center;
   
-    content:"Download1";
+    content:"Download";
     /* justify-content: center; */
     align-content: center;
 
@@ -1054,6 +1093,6 @@ transform: translateY(-200px);
 .buttons1{
     position: relative;
     border:1px solid rgb(18, 211, 92);
+    border:none;
+
 }
-
-
